@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a GoogleSite for a local charity. <br>
+🌱 I’m learning Google Project Management, React.js, Ruby, and British Sign Language (BSL).<br>
+👯 I’m looking to collaborate on start-up projects that help small businesses.<br>
+💬 Ask me about any of my adventures in southern Africa.<br>
+📫 How to reach me: info@dawnmcreated.uk<br>
+😄 Pronouns: she/her<br>
+⚡ Fun fact: I've taken a cheetah cub for a walk on a leash.
